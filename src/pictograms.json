@@ -1,0 +1,642 @@
+[
+  {
+    "file": "4626.png",
+    "name": "Frukost",
+    "folder": "Mat och dryck"
+  },
+  {
+    "file": "4611.png",
+    "name": "Lunch",
+    "folder": "Mat och dryck"
+  },
+  {
+    "file": "4592.png",
+    "name": "Middag",
+    "folder": "Mat och dryck"
+  },
+  {
+    "file": "4694.png",
+    "name": "Mellanmål",
+    "folder": "Mat och dryck"
+  },
+  {
+    "file": "24479.png",
+    "name": "Fika",
+    "folder": "Mat och dryck"
+  },
+  {
+    "file": "6456.png",
+    "name": "Äta",
+    "folder": "Mat och dryck"
+  },
+  {
+    "file": "4768.png",
+    "name": "Dricka vatten",
+    "folder": "Mat och dryck"
+  },
+  {
+    "file": "29802.png",
+    "name": "Te",
+    "folder": "Mat och dryck"
+  },
+  {
+    "file": "2445.png",
+    "name": "Mjölk",
+    "folder": "Mat och dryck"
+  },
+  {
+    "file": "11461.png",
+    "name": "Juice",
+    "folder": "Mat och dryck"
+  },
+  {
+    "file": "2281.png",
+    "name": "Smörgås",
+    "folder": "Mat och dryck"
+  },
+  {
+    "file": "28339.png",
+    "name": "Frukt",
+    "folder": "Mat och dryck"
+  },
+  {
+    "file": "2527.png",
+    "name": "Pizza",
+    "folder": "Mat och dryck"
+  },
+  {
+    "file": "2573.png",
+    "name": "Soppa",
+    "folder": "Mat och dryck"
+  },
+  {
+    "file": "2502.png",
+    "name": "Kaka",
+    "folder": "Mat och dryck"
+  },
+  {
+    "file": "3348.png",
+    "name": "Glass",
+    "folder": "Mat och dryck"
+  },
+  {
+    "file": "30526.png",
+    "name": "Laga mat",
+    "folder": "Mat och dryck"
+  },
+  {
+    "file": "5549.png",
+    "name": "Duka",
+    "folder": "Mat och dryck"
+  },
+  {
+    "file": "30967.png",
+    "name": "Diska",
+    "folder": "Mat och dryck"
+  },
+  {
+    "file": "32408.png",
+    "name": "Restaurang",
+    "folder": "Mat och dryck"
+  },
+  {
+    "file": "26803.png",
+    "name": "Duscha",
+    "folder": "Hygien och kläder"
+  },
+  {
+    "file": "6058.png",
+    "name": "Bada",
+    "folder": "Hygien och kläder"
+  },
+  {
+    "file": "2326.png",
+    "name": "Borsta tänderna",
+    "folder": "Hygien och kläder"
+  },
+  {
+    "file": "8975.png",
+    "name": "Tvätta händerna",
+    "folder": "Hygien och kläder"
+  },
+  {
+    "file": "5921.png",
+    "name": "Toalett",
+    "folder": "Hygien och kläder"
+  },
+  {
+    "file": "5361.png",
+    "name": "Raka sig",
+    "folder": "Hygien och kläder"
+  },
+  {
+    "file": "26947.png",
+    "name": "Kamma håret",
+    "folder": "Hygien och kläder"
+  },
+  {
+    "file": "6627.png",
+    "name": "Klä på sig",
+    "folder": "Hygien och kläder"
+  },
+  {
+    "file": "11233.png",
+    "name": "Klä av sig",
+    "folder": "Hygien och kläder"
+  },
+  {
+    "file": "2522.png",
+    "name": "Pyjamas",
+    "folder": "Hygien och kläder"
+  },
+  {
+    "file": "4872.png",
+    "name": "Jacka",
+    "folder": "Hygien och kläder"
+  },
+  {
+    "file": "2775.png",
+    "name": "Skor",
+    "folder": "Hygien och kläder"
+  },
+  {
+    "file": "2442.png",
+    "name": "Tvätta kläder",
+    "folder": "Hygien och kläder"
+  },
+  {
+    "file": "6588.png",
+    "name": "Frisör",
+    "folder": "Hygien och kläder"
+  },
+  {
+    "file": "8989.png",
+    "name": "Vakna",
+    "folder": "Hemma"
+  },
+  {
+    "file": "6479.png",
+    "name": "Sova",
+    "folder": "Hemma"
+  },
+  {
+    "file": "16643.png",
+    "name": "Vila",
+    "folder": "Hemma"
+  },
+  {
+    "file": "6964.png",
+    "name": "Hem",
+    "folder": "Hemma"
+  },
+  {
+    "file": "8680.png",
+    "name": "Städa",
+    "folder": "Hemma"
+  },
+  {
+    "file": "3227.png",
+    "name": "Dammsuga",
+    "folder": "Hemma"
+  },
+  {
+    "file": "5481.png",
+    "name": "Bädda sängen",
+    "folder": "Hemma"
+  },
+  {
+    "file": "8679.png",
+    "name": "Soppor",
+    "folder": "Hemma"
+  },
+  {
+    "file": "2817.png",
+    "name": "Vattna blommor",
+    "folder": "Hemma"
+  },
+  {
+    "file": "2688.png",
+    "name": "Post",
+    "folder": "Hemma"
+  },
+  {
+    "file": "2451.png",
+    "name": "Nycklar",
+    "folder": "Hemma"
+  },
+  {
+    "file": "34939.png",
+    "name": "Ladda telefonen",
+    "folder": "Hemma"
+  },
+  {
+    "file": "26479.png",
+    "name": "Telefon",
+    "folder": "Hemma"
+  },
+  {
+    "file": "25269.png",
+    "name": "Mobiltelefon",
+    "folder": "Hemma"
+  },
+  {
+    "file": "7190.png",
+    "name": "Dator",
+    "folder": "Hemma"
+  },
+  {
+    "file": "28099.png",
+    "name": "Surfplatta",
+    "folder": "Hemma"
+  },
+  {
+    "file": "25498.png",
+    "name": "TV",
+    "folder": "Hemma"
+  },
+  {
+    "file": "8163.png",
+    "name": "Medicin",
+    "folder": "Hälsa"
+  },
+  {
+    "file": "2855.png",
+    "name": "Ta tabletter",
+    "folder": "Hälsa"
+  },
+  {
+    "file": "6561.png",
+    "name": "Läkare",
+    "folder": "Hälsa"
+  },
+  {
+    "file": "6050.png",
+    "name": "Sjuksköterska",
+    "folder": "Hälsa"
+  },
+  {
+    "file": "2733.png",
+    "name": "Tandläkare",
+    "folder": "Hälsa"
+  },
+  {
+    "file": "36210.png",
+    "name": "Sjukhus",
+    "folder": "Hälsa"
+  },
+  {
+    "file": "29859.png",
+    "name": "Vårdcentral",
+    "folder": "Hälsa"
+  },
+  {
+    "file": "37368.png",
+    "name": "Apotek",
+    "folder": "Hälsa"
+  },
+  {
+    "file": "26094.png",
+    "name": "Sjukgymnast",
+    "folder": "Hälsa"
+  },
+  {
+    "file": "8235.png",
+    "name": "Mäta blodtryck",
+    "folder": "Hälsa"
+  },
+  {
+    "file": "5601.png",
+    "name": "Spruta",
+    "folder": "Hälsa"
+  },
+  {
+    "file": "7040.png",
+    "name": "Sjuk",
+    "folder": "Hälsa"
+  },
+  {
+    "file": "2367.png",
+    "name": "Ont",
+    "folder": "Hälsa"
+  },
+  {
+    "file": "3329.png",
+    "name": "Glasögon",
+    "folder": "Hälsa"
+  },
+  {
+    "file": "5912.png",
+    "name": "Hörapparat",
+    "folder": "Hälsa"
+  },
+  {
+    "file": "2476.png",
+    "name": "Hemtjänst",
+    "folder": "Hälsa"
+  },
+  {
+    "file": "29951.png",
+    "name": "Promenad",
+    "folder": "Ute och resor"
+  },
+  {
+    "file": "8986.png",
+    "name": "Handla",
+    "folder": "Ute och resor"
+  },
+  {
+    "file": "3389.png",
+    "name": "Affär",
+    "folder": "Ute och resor"
+  },
+  {
+    "file": "2262.png",
+    "name": "Buss",
+    "folder": "Ute och resor"
+  },
+  {
+    "file": "2339.png",
+    "name": "Bil",
+    "folder": "Ute och resor"
+  },
+  {
+    "file": "2580.png",
+    "name": "Taxi",
+    "folder": "Ute och resor"
+  },
+  {
+    "file": "25471.png",
+    "name": "Rullstol",
+    "folder": "Ute och resor"
+  },
+  {
+    "file": "2603.png",
+    "name": "Tåg",
+    "folder": "Ute och resor"
+  },
+  {
+    "file": "2472.png",
+    "name": "Tunnelbana",
+    "folder": "Ute och resor"
+  },
+  {
+    "file": "2264.png",
+    "name": "Flygplan",
+    "folder": "Ute och resor"
+  },
+  {
+    "file": "6045.png",
+    "name": "Cykla",
+    "folder": "Ute och resor"
+  },
+  {
+    "file": "3062.png",
+    "name": "Bank",
+    "folder": "Ute och resor"
+  },
+  {
+    "file": "4630.png",
+    "name": "Pengar",
+    "folder": "Ute och resor"
+  },
+  {
+    "file": "3118.png",
+    "name": "Kyrka",
+    "folder": "Ute och resor"
+  },
+  {
+    "file": "2931.png",
+    "name": "Resa",
+    "folder": "Ute och resor"
+  },
+  {
+    "file": "7141.png",
+    "name": "Läsa",
+    "folder": "Fritid"
+  },
+  {
+    "file": "2845.png",
+    "name": "Tidning",
+    "folder": "Fritid"
+  },
+  {
+    "file": "24791.png",
+    "name": "Musik",
+    "folder": "Fritid"
+  },
+  {
+    "file": "24785.png",
+    "name": "Träna",
+    "folder": "Fritid"
+  },
+  {
+    "file": "6568.png",
+    "name": "Simma",
+    "folder": "Fritid"
+  },
+  {
+    "file": "16743.png",
+    "name": "Fotboll",
+    "folder": "Fritid"
+  },
+  {
+    "file": "2283.png",
+    "name": "Bowling",
+    "folder": "Fritid"
+  },
+  {
+    "file": "9135.png",
+    "name": "Spela spel",
+    "folder": "Fritid"
+  },
+  {
+    "file": "2540.png",
+    "name": "Pussel",
+    "folder": "Fritid"
+  },
+  {
+    "file": "2348.png",
+    "name": "Måla",
+    "folder": "Fritid"
+  },
+  {
+    "file": "8088.png",
+    "name": "Rita",
+    "folder": "Fritid"
+  },
+  {
+    "file": "9040.png",
+    "name": "Sticka",
+    "folder": "Fritid"
+  },
+  {
+    "file": "2974.png",
+    "name": "Trädgård",
+    "folder": "Fritid"
+  },
+  {
+    "file": "2520.png",
+    "name": "Fiska",
+    "folder": "Fritid"
+  },
+  {
+    "file": "30387.png",
+    "name": "Bio",
+    "folder": "Fritid"
+  },
+  {
+    "file": "32412.png",
+    "name": "Teater",
+    "folder": "Fritid"
+  },
+  {
+    "file": "7099.png",
+    "name": "Fest",
+    "folder": "Fritid"
+  },
+  {
+    "file": "37363.png",
+    "name": "Födelsedag",
+    "folder": "Fritid"
+  },
+  {
+    "file": "25381.png",
+    "name": "Present",
+    "folder": "Fritid"
+  },
+  {
+    "file": "39447.png",
+    "name": "Semester",
+    "folder": "Fritid"
+  },
+  {
+    "file": "11754.png",
+    "name": "Teckenspråk",
+    "folder": "Fritid"
+  },
+  {
+    "file": "38351.png",
+    "name": "Familj",
+    "folder": "Personer och djur"
+  },
+  {
+    "file": "2458.png",
+    "name": "Mamma",
+    "folder": "Personer och djur"
+  },
+  {
+    "file": "2497.png",
+    "name": "Pappa",
+    "folder": "Personer och djur"
+  },
+  {
+    "file": "2422.png",
+    "name": "Syster",
+    "folder": "Personer och djur"
+  },
+  {
+    "file": "2423.png",
+    "name": "Bror",
+    "folder": "Personer och djur"
+  },
+  {
+    "file": "23710.png",
+    "name": "Mormor/farmor",
+    "folder": "Personer och djur"
+  },
+  {
+    "file": "23718.png",
+    "name": "Morfar/farfar",
+    "folder": "Personer och djur"
+  },
+  {
+    "file": "2255.png",
+    "name": "Vänner",
+    "folder": "Personer och djur"
+  },
+  {
+    "file": "27126.png",
+    "name": "Besök",
+    "folder": "Personer och djur"
+  },
+  {
+    "file": "38939.png",
+    "name": "Pojkvän/flickvän",
+    "folder": "Personer och djur"
+  },
+  {
+    "file": "7202.png",
+    "name": "Hund",
+    "folder": "Personer och djur"
+  },
+  {
+    "file": "7114.png",
+    "name": "Katt",
+    "folder": "Personer och djur"
+  },
+  {
+    "file": "2294.png",
+    "name": "Häst",
+    "folder": "Personer och djur"
+  },
+  {
+    "file": "6624.png",
+    "name": "Arbete",
+    "folder": "Arbete och skola"
+  },
+  {
+    "file": "32446.png",
+    "name": "Skola",
+    "folder": "Arbete och skola"
+  },
+  {
+    "file": "6225.png",
+    "name": "Daglig verksamhet",
+    "folder": "Arbete och skola"
+  },
+  {
+    "file": "8207.png",
+    "name": "Möte",
+    "folder": "Arbete och skola"
+  },
+  {
+    "file": "27339.png",
+    "name": "Rast",
+    "folder": "Arbete och skola"
+  },
+  {
+    "file": "2380.png",
+    "name": "Skriva",
+    "folder": "Arbete och skola"
+  },
+  {
+    "file": "35533.png",
+    "name": "Glad",
+    "folder": "Känslor"
+  },
+  {
+    "file": "35545.png",
+    "name": "Ledsen",
+    "folder": "Känslor"
+  },
+  {
+    "file": "35539.png",
+    "name": "Arg",
+    "folder": "Känslor"
+  },
+  {
+    "file": "35537.png",
+    "name": "Trött",
+    "folder": "Känslor"
+  },
+  {
+    "file": "35535.png",
+    "name": "Rädd",
+    "folder": "Känslor"
+  },
+  {
+    "file": "31310.png",
+    "name": "Lugn",
+    "folder": "Känslor"
+  }
+]
